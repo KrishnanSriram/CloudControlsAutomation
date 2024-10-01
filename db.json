@@ -1,0 +1,52 @@
+{
+  "storage": {
+    "relational_database": {
+      "precas":[],
+      "controls": []
+    },
+    "nosql_database":{
+      "precas":[],
+      "controls": []
+    },
+    "object_storage": {
+      "precas":[],
+      "controls": []
+    },
+    "file_storage": {
+      "precas":[],
+      "controls": []
+    },
+    "block_storage": {
+      "precas":[],
+      "controls": []
+    },
+    "special_storage": {
+      "precas":[],
+      "controls": []
+    }
+  },
+  "compute": {
+    "virtual_machines": {
+      "precas":[],
+      "controls": []
+    },
+    "serverless": {
+      "precas":[],
+      "controls": []
+    },
+    "container_services": {
+      "precas":[],
+      "controls": []
+    },
+    "specialized_compute": {
+      "precas":[],
+      "controls": []
+    }
+  },
+  "networking": {},
+  "contentDelivery": {},
+  "analytics": {},
+  "machineLearning": {},
+  "iam":{},
+  "security": {}
+}
